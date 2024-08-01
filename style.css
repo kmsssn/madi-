@@ -1,0 +1,69 @@
+body{
+    margin: 0 ;
+}
+
+h1{
+    padding: 30px;
+    margin: 0px;
+}
+
+header{
+
+
+    text-shadow: 2px 2px 5px #000;
+
+    height: 300px;
+    background-color:beige;
+    color: rgb(255, 243, 212);
+    text-align:center;
+font-size: 30px;
+font-family: "Gupter", serif;
+font-weight: 700;
+font-style: normal;
+background-image: url(https://static.kinoafisha.info/k/news/610/upload/editor/news/172030656919.jpg);
+}
+main{
+    background-color:rgb(214, 214, 22);
+    color: rgb(65, 19, 194);
+    text-align:center;
+font-size: 60px;
+display:  flex;
+
+}
+.left{
+       width: 50%  ;
+        font-size: 25px;
+        text-align: center;
+}
+
+
+
+.right{
+     width:  50%;
+     text-align: center;
+}
+footer{
+    height: 500px;
+    background-color:rgb(221, 221, 29);
+    color: rgb(48, 11, 212);
+    text-align:center;
+font-size: 60px;
+padding: 20px;
+}
+
+.social img{
+width: 100px;
+padding-left: 10px;
+
+
+}
+
+.social {
+    list-style: none; 
+    display :  flex;
+    justify-content: center;
+}
+
+
+
+
